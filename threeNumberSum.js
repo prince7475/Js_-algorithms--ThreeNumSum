@@ -25,6 +25,6 @@ function threeNumberSum (array,target) {
         }
     }
     return result // return our result, if we do not have any matches result will be an empty array
-}
+} 
 
 exports.threeNumberSum = threeNumberSum
